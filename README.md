@@ -1,4 +1,4 @@
-# rxjs-tetris
+# rxjs-tetris (WIP)
 
 Taming tetrix with reactive streams
 
@@ -27,5 +27,5 @@ Have fun!
 
 ### Credits
 
-I copy the base of [thoughtram](https://blog.thoughtram.io/rxjs/2017/08/24/taming-snakes-with-reactive-streams.html)
+This game is based on the principles of this post [thoughtram](https://blog.thoughtram.io/rxjs/2017/08/24/taming-snakes-with-reactive-streams.html)
 
