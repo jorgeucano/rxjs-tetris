@@ -1,6 +1,6 @@
 # rxjs-tetris (WIP)
 
-Taming tetrix with reactive streams
+Taming tetrix with reactive streams, for 30 days with rxjs
 
 ## Overview
 
